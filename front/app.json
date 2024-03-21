@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Uguest",
+    "slug": "uguest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/uguest_logo_blanc_512.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/uguest_logo_blanc_512.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/uguest_logo_blanc_512.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/uguest_logo_blanc_512.png"
+    }
+  }
+}
