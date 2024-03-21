@@ -29,8 +29,8 @@ npm install
 
 npx expo start (si le front et le serveur tourne sur le meme reseau) ou npx expo start --tunnel (si le front et le back tourne sur des reseaux different) ou utilisez android studio 
 
-Le serveur sera accessible à l'adresse http://adressIPV4:5500. en local 
-Le serveur sera accessible à l'adresse 'http://91.132.254.164:2121' si le back est hebergé
+Le serveur sera accessible à l'adresse http://en local 
+Le serveur sera accessible à l'adresse 'http://' si le back est hebergé
 variable DATABASE_URL a modifier dans le fichier config.js
 
 2. **Pour démarrer le serveur de développement, exécutez :**
@@ -50,14 +50,14 @@ variable DATABASE_URL a modifier dans le fichier config.js
 
    Assurez-vous que le fichier `.env` est bien présent dans le répertoire racine du projet, et vérifiez que la variable `MONGO_URL` est correctement définie. La variable `MONGO_URL` doit inclure les identifiants suivants :
 
-   - **Identifiant** : Admin
-   - **Mot de passe** : BnlbLZ7RiHW9cRCu
+   - **Identifiant** : 
+   - **Mot de passe** : 
 
    Pour accéder à la base de données en ligne et effectuer des consultations ou des modifications, suivez les étapes ci-dessous :
 
    Connectez-vous sur MongoDB Atlas en utilisant les identifiants suivants :
-      - **Email** : contact@uguest.fr
-      - **Mot de passe** : uD9]hg_96Q/z8C
+      - **Email** : 
+      - **Mot de passe** : 
 
    Avec ces informations de connexion, vous pourrez accéder à votre base de données MongoDB Atlas.
 
@@ -101,8 +101,3 @@ Le back-end est développé en utilisant Node.js, Express.js, et MongoDB comme b
 N'hésitez pas à explorer les répertoires et fichiers correspondants pour obtenir plus de détails sur chaque composant du projet.
 
 
-
-liste d'user existant : 
-
-- admin@uguest.fr   password
-- alex59debonnieres@gmail.com password
